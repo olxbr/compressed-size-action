@@ -1,3 +1,6 @@
+# Essa action é um Fork
+- criei o fork porque nunca aceitaram essa PR que atualiza a action pro Node 20: https://github.com/preactjs/compressed-size-action/pull/103
+
 # compressed-size-action
 
 A GitHub action that reports changes in compressed file sizes on your PRs.
