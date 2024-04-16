@@ -1,5 +1,5 @@
-# Essa action é um Fork
-- criei o fork porque nunca aceitaram essa PR que atualiza a action pro Node 20: https://github.com/preactjs/compressed-size-action/pull/103
+# This action is a frok from preactjs/compression-size
+- forked because we neede to update to Node 20 and this PR was never accepted: https://github.com/preactjs/compressed-size-action/pull/103
 
 # compressed-size-action
 
