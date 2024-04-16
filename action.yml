@@ -1,6 +1,6 @@
-name: 'compressed-size-action'
-description: 'Get compressed size differences for every PR'
-author: 'Jason Miller'
+name: 'js-compressed-size-action'
+description: 'Get js compressed size differences for every PR'
+author: 'OLX Brasil'
 branding:
   icon: 'archive'
   color: 'purple'
