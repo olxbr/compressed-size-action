@@ -1,4 +1,4 @@
-name: 'js-compressed-size-action'
+name: 'compressed-size-action'
 description: 'Get js compressed size differences for every PR'
 author: 'OLX Brasil'
 branding:
